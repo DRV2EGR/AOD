@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  АОД_1.cpp
+  Создание кода...
+C:\Users\Asus\Desktop\3сем\АОД\АОД_1\АОД_1\АОД_1.cpp(79): warning C4715: Queue_Dinamich_Mass::front: значение возвращается не при всех путях выполнения
+  АОД_1.vcxproj -> C:\Users\Asus\Desktop\3сем\АОД\АОД_1\Debug\АОД_1.exe
