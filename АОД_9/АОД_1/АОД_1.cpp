@@ -98,6 +98,8 @@ bool Queue_Dinamich_Mass::if_pust()
 
 int main()
 {
+	setlocale(LC_ALL, "rus");
+
 	cout << "Введите заявки (для выхода введите 0, не более 100 заявок) " << endl;
 
 	Queue_Dinamich_Mass* queue = new Queue_Dinamich_Mass(100);

@@ -72,7 +72,7 @@ string decode(string& str, map<vector<bool>, char>& table) {
 
 int main() {
 	setlocale(LC_ALL, "RUS");
-	string raw = "сжатие данных по алгоритму хоффмана";
+	string raw = "Рогов Дмитрий Вадимович";
 	map<char, int> symbols;
 
 	for (int i = 0; i < raw.length(); i++) { symbols[raw[i]]++; }
